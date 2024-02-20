@@ -1,0 +1,114 @@
+.cr_button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 18px;
+
+  position: absolute;
+  width: 127px;
+  height: 42px;
+  left: calc(50% - 127px / 2 - 377px);
+  top: 147px;
+
+  background: #3c64b1;
+}
+
+.jr_button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 18px;
+
+  position: absolute;
+  width: 107px;
+  height: 42px;
+  left: calc(50% - 107px / 2 - 236px);
+  top: 147px;
+
+  background: #3c64b1;
+}
+
+.ss_button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 18px;
+
+  position: absolute;
+  width: 122px;
+  height: 42px;
+  left: calc(50% - 122px / 2 - 97.5px);
+  top: 147px;
+
+  background: #3c64b1;
+}
+
+.r_button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 18px;
+
+  position: absolute;
+  width: 76px;
+  height: 42px;
+  left: calc(50% - 76px / 2 + 25.5px);
+  top: 147px;
+
+  background: #3c64b1;
+}
+
+.c_button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 18px;
+
+  position: absolute;
+  width: 69px;
+  height: 42px;
+  left: calc(50% - 69px / 2 + 122px);
+  top: 147px;
+
+  background: #3c64b1;
+}
+
+.b_button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 18px;
+
+  position: absolute;
+  width: 120px;
+  height: 42px;
+  left: calc(50% - 120px / 2 + 240.5px);
+  top: 147px;
+
+  background: #3c64b1;
+}
+
+.h_button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 18px;
+
+  position: absolute;
+  width: 98px;
+  height: 42px;
+  left: calc(50% - 98px / 2 + 373.5px);
+  top: 147px;
+
+  background: #3c64b1;
+}
+
+.landing-container {
+  background: url(../../img/vid.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}

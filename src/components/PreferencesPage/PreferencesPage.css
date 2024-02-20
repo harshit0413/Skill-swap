@@ -1,0 +1,22 @@
+.preferences {
+  margin: 0;
+  padding: 0;
+  background: url(Preferences.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.root {
+    display: 'flex',
+  }
+
+.formControl {
+    margin: theme.spacing(10);
+    textAlign: 'left';
+    top: '100';
+    left: '210px';
+    right: '300px';
+    bottom: '350px'
+
+  }
